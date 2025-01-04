@@ -60,7 +60,7 @@ Ensure you have the following installed:
 
 ### Deployment
 
-The app is deployed on [Vercel](https://vercel.com). Visit the live demo at: [Explore Nepal](https://explorenepal.vercel.app)
+The app is deployed on [Vercel](https://vercel.com). Visit the live demo at: [Explore Nepal](https://explorenepal.vercel.app/)
 
 To deploy your own version:
 1. Push your code to a GitHub repository.
@@ -90,13 +90,15 @@ The destinations are stored in a JSON file (`src/data/destinations.json`) with t
 [
   {
     "id": 1,
-    "name": "Pokhara",
-    "region": "Gandaki",
-    "type": "Adventure",
-    "rating": 4.8,
-    "description": "Pokhara is a gateway to the Annapurna mountain range.",
-    "images": ["image1.jpg", "image2.jpg"],
-    "activities": ["Boating", "Hiking", "Paragliding"]
+    "name": "Everest Base Camp",
+    "region": "Khumbu Region",
+    "type": "Trekking",
+    "rating": 4.9,
+    "popularity": "High",
+    "image": ["/Images/mount-everest.jpg", "/Images/everest-camp.jpg", "/Images/kalapathar.jpeg"],
+    "detailPage": "/destinations/1",
+    "activities": ["Hiking", "Climbing", "Cultural experiences"],
+    "description": "Everest Base Camp is a world-renowned trekking..............."
   }
 ]
 ```
@@ -107,14 +109,6 @@ The destinations are stored in a JSON file (`src/data/destinations.json`) with t
 - `/about` → About Nepal Page
 - `/destinations` → Destinations List Page
 - `/destination/:id` → Destination Detail Page
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgements
 
