@@ -4,7 +4,7 @@ import Search from "./Search";
 
 const Home = () => {
   return (
-    <div className="bg-gray-100">
+    <div className="bg-gray-100 mt-16">
       <div className="bg-gray-100">
         <section
           className="flex flex-col bg-gray-100 items-center justify-center h-screen w-full bg-cover bg-center text-gray-200 text-center px-5"

@@ -20,7 +20,7 @@ const Recommendation = () => {
   const currentDestination = popularDestinations[currentIndex];
 
   return (
-    <div className="text-black text-xl relative top-[-100px] inset-0 bg-opacity-30 flex items-center justify-center">
+    <div className="text-black text-xl relative top-[-100px] inset-0 bg-opacity-30 flex items-center justify-center mt-16">
       <div
         className="shadow-xl rounded-md lg:w-[50%] lg:h-80 bg-slate-200 overflow-hidden bg-cover"
         style={{

@@ -47,16 +47,13 @@ const Destinationdetails = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
   };
-
-  const displayedReviews = showAllReviews ? reviews : reviews.slice(-3);
-
   return (
-    <div className="text-black text-xl fixed inset-0 bg-opacity-30 backdrop-blur-[1px] flex items-center justify-center px-10">
+    <div className="text-black text-xl fixed inset-0 bg-opacity-30 backdrop-blur-[1px] flex items-center justify-center lg:px-10 mt-16">
       <div className="shadow-xl rounded-md lg:w-[50%] lg:h-[92%] h-[100%] w-full bg-slate-200 overflow-hidden overflow-y-scroll no-scrollbar">
         <div className="flex justify-end">
           <button
             onClick={close}
-            className="fixed rounded-full p-3 text-2xl bg-white hover:bg-slate-200 shadow-xl text-black"
+            className="fixed rounded-full p-3 lg:text-2xl bg-white hover:bg-slate-200 shadow-xl text-black"
           >
             <AiOutlineClose />
           </button>
@@ -96,7 +93,7 @@ const Destinationdetails = () => {
               <h3 className="text-lg font-semibold">User Reviews</h3>
 
               {reviews.length > 0 ? (
-                displayedReviews.map((review, index) => (
+                hardcodedReviews.map((review, index) => (
                   <div key={index} className="border-b py-2">
                     <p className="font-semibold">{review.user}</p>
                     <p>{review.review}</p>

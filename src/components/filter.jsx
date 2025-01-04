@@ -20,7 +20,7 @@ const Filter = () => {
       return 0;
     });
   return (
-    <div className="container mx-auto p-4 px-10 bg-gray-100">
+    <div className="container mx-auto p-4 lg:px-10 bg-gray-100 mt-16">
       <h1 className="text-4xl font-bold text-center mb-8">
         Explore Destinations in Nepal
       </h1>

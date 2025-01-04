@@ -6,7 +6,7 @@ const Search = ()=>{
 
     return (
         <div
-        className="lg:h-40 h-30 w-1/2  text-green-700 font-sora font-semibold lg:text-6xl text-3xl flex flex-col items-center justify-center "
+        className="lg:h-40 h-30 lg:w-1/2  text-green-700 font-sora font-semibold lg:text-6xl text-3xl flex flex-col items-center justify-center "
       >
         <div className=" rounded-xl flex justify-center items-center text-white text-2xl w-2/3 lg:h-14 bg-transparent shadow-md border ">
             <FaSearch className="mx-2" />

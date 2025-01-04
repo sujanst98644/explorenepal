@@ -6,7 +6,7 @@ import { Outlet } from "react-router-dom";
 const App = () => {
   return (
     <div className="text-black font-sora">
-      <Navbar />
+      <Navbar/>
       <Outlet />
       <Footer />
     </div>
