@@ -2,12 +2,12 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";
 import App from "./App";
-import AboutNepal from "./components/AboutNepal";
+import AboutNepal from "./pages/AboutNepal";
 import { RouterProvider, createBrowserRouter } from "react-router-dom";
-import Home from "./components/Home";
-import Contact from "./components/Contact";
+import Home from "./pages/Home";
+import Contact from "./pages/Contact";
 import Destinationdetails from "./components/Destinationdetails";
-import Filter from "./components/filter";
+import Filter from "./pages/filter";
 
 const router = createBrowserRouter([
   {

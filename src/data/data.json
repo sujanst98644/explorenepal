@@ -30,7 +30,7 @@
     "type": "Trekking",
     "rating": 4.8,
     "popularity": "Medium",
-    "image": ["/Images/annapurna.jpeg"],
+    "image": ["/Images/annapurna.jpeg", "/Images/Annapurna-circuit-6.jpeg", "/Images/Annapurna-circuit-1.jpeg"],
     "detailPage": "/destinations/3",
     "activities": ["Hiking", "Climbing", "Cultural experiences"],
     "description": "The Annapurna Circuit is one of the most iconic trekking routes in the world, offering adventurers a diverse and breathtaking journey through the Annapurna Region of Nepal. This trail encircles the Annapurna massif, passing through lush subtropical forests, alpine meadows, and arid high-altitude deserts. The trek features a rich tapestry of cultural experiences, as it traverses villages inhabited by diverse ethnic groups, including Gurungs, Thakalis, and Manangis. Highlights of the circuit include the Thorong La Pass, standing at an altitude of 5,416 meters, which offers spectacular panoramic views of snow-capped peaks. Along the way, trekkers can relax in natural hot springs, visit ancient monasteries, and enjoy local delicacies. The Annapurna Circuit is more than just a physical challenge; it’s a journey of discovery that reveals the majestic beauty of the Himalayas and the warm hospitality of its people."
@@ -42,7 +42,7 @@
     "type": "Adventure",
     "rating": 4.6,
     "popularity": "High",
-    "image": ["/Images/chitwan.jpg"],
+    "image": ["/Images/chitwan.jpg", "/Images/chitwan-2.jpg", "/Images/chitwan-3.jpg"],
     "detailPage": "/destinations/4",
     "activities": ["Hiking", "Climbing", "Cultural experiences"],
     "description": "Chitwan National Park, Nepal’s first national park and a UNESCO World Heritage Site, is a haven for wildlife enthusiasts and nature lovers. Located in the Terai region, this park spans over 932 square kilometers of dense forests, grasslands, and wetlands. It is home to a diverse range of flora and fauna, including endangered species such as the one-horned rhinoceros and the Bengal tiger. Visitors can embark on thrilling jungle safaris, either on foot, in a jeep, or on the back of an elephant, to explore the park’s rich biodiversity. The Narayani River, which flows through the park, is an ideal spot for birdwatching and observing crocodiles basking on its banks. Chitwan also offers cultural experiences with the Tharu community, where visitors can enjoy traditional dances and cuisine. A visit to Chitwan National Park is an unforgettable adventure into Nepal’s wild heart."
@@ -54,7 +54,7 @@
     "type": "Cultural",
     "rating": 4.5,
     "popularity": "Medium",
-    "image": ["/Images/lumbini.jpg"],
+    "image": ["/Images/lumbini.jpg", "/Images/lumbini-2.jpg", "/Images/lumbini-3.jpg"],
     "detailPage": "/destinations/5",
     "activities": ["Hiking", "Climbing", "Cultural experiences"],
     "description": "Lumbini, the birthplace of Lord Buddha, is one of the most sacred pilgrimage sites for Buddhists worldwide. Located in the Lumbini Province of Nepal, this UNESCO World Heritage Site is a serene and spiritual destination that attracts visitors seeking peace and enlightenment. The centerpiece of Lumbini is the Maya Devi Temple, which marks the exact spot where Buddha was born. The temple complex is surrounded by a sacred garden, ancient ruins, and the Ashokan Pillar, erected by Emperor Ashoka in the 3rd century BCE. Lumbini also features monasteries built by Buddhist communities from various countries, showcasing diverse architectural styles. Visitors can meditate in tranquil surroundings, explore the monastic zones, and reflect on the teachings of Buddhism. A visit to Lumbini offers a unique opportunity to connect with history, spirituality, and the universal message of peace."
@@ -66,7 +66,7 @@
     "type": "Adventure",
     "rating": 4.8,
     "popularity": "High",
-    "image": ["/Images/pokhara.jpg"],
+    "image": ["/Images/pokhara.jpg", "/Images/pokhara-2.jpg", "/Images/pokhara-3.jpg"],
     "detailPage": "/destinations/6",
     "activities": ["Hiking", "Climbing", "Cultural experiences"],
     "description": "Pokhara, often referred to as the gateway to the Himalayas, is a picturesque city in the Gandaki Province of Nepal. Renowned for its serene lakes, lush green hills, and panoramic views of the Annapurna and Dhaulagiri mountain ranges, Pokhara is a haven for nature lovers and adventurers. The city is home to Phewa Lake, where visitors can enjoy boating against the backdrop of the majestic Machapuchare (Fishtail) peak. Other attractions include the World Peace Pagoda, Davis Falls, and the mysterious Gupteshwor Cave. Pokhara is also a hub for adventure activities such as paragliding, zip-lining, and trekking. The laid-back ambiance, combined with its vibrant culture and scenic beauty, makes Pokhara an ideal destination for relaxation and exploration. Whether you seek adventure or tranquility, Pokhara offers an unforgettable experience in the heart of Nepal."
@@ -78,7 +78,7 @@
     "type": "Trekking",
     "rating": 4.7,
     "popularity": "Medium",
-    "image": ["/Images/langtang.jpg"],
+    "image": ["/Images/langtang.jpg, /Images/langtang-2.jpg, /Images/langtang-3.jpg"],
     "detailPage": "/destinations/7",
     "activities": ["Hiking", "Climbing", "Cultural experiences"],
     "description": "Langtang Valley, also known as the ‘Valley of Glaciers,’ is a pristine trekking destination located north of Kathmandu. Nestled within the Langtang National Park, this valley is renowned for its stunning landscapes, encompassing snow-capped peaks, verdant forests, and glacial rivers. The trek to Langtang Valley takes you through traditional Tamang and Sherpa villages, where you can experience their unique culture and warm hospitality. The valley is a haven for biodiversity, home to the elusive red panda and a variety of bird species. Highlights of the trek include visits to the Kyanjin Gompa monastery and breathtaking views from Tserko Ri. Langtang Valley offers a serene and less-crowded alternative to other trekking routes, making it perfect for nature enthusiasts and those seeking a peaceful retreat in the Himalayas."
@@ -90,7 +90,7 @@
     "type": "Cultural",
     "rating": 4.6,
     "popularity": "Medium",
-    "image": ["/Images/patan.jpeg"],
+    "image": ["/Images/patan.jpeg", "/Images/patan-2.jpg", "/Images/patan-3.jpg"],
     "detailPage": "/destinations/8",
     "activities": ["Hiking", "Climbing", "Cultural experiences"],
     "description": "Patan Durbar Square, located in Lalitpur, is a historic and cultural gem in the Kathmandu Valley. This UNESCO World Heritage Site is famed for its stunning Newari architecture, intricate wood carvings, and artistic heritage. The square is home to the ancient royal palace, which now houses the Patan Museum, showcasing traditional crafts and historical artifacts. The Krishna Mandir, with its exquisite stone carvings, stands as a centerpiece of the square. Visitors can explore the courtyards, temples, and shrines, each narrating tales of Nepal’s rich history and spirituality. The surrounding streets are dotted with artisans crafting metal and woodwork, preserving Patan’s legacy as a hub of art and culture. A visit to Patan Durbar Square offers an immersive experience into the artistry and traditions that define Nepal’s cultural identity."
@@ -102,7 +102,7 @@
     "type": "Cultural",
     "rating": 4.7,
     "popularity": "Medium",
-    "image": ["/Images/bhaktapur.jpg"],
+    "image": ["/Images/bhaktapur.jpg", "/Images/bhaktapur-2.jpg", "/Images/bhaktapur-3.jpg"],
     "detailPage": "/destinations/9",
     "activities": ["Hiking", "Climbing", "Cultural experiences"],
     "description": "Bhaktapur Durbar Square, situated in the ancient city of Bhaktapur, is a masterpiece of medieval architecture and craftsmanship. As a UNESCO World Heritage Site, the square is renowned for its well-preserved temples, courtyards, and traditional Newari culture. Key landmarks include the 55-Window Palace, the Nyatapola Temple, and the Golden Gate, each reflecting the artistic brilliance of the Malla dynasty. Walking through the cobblestone streets, visitors are transported back in time, surrounded by pottery shops, traditional woodwork, and vibrant local life. Bhaktapur is also famous for its festivals, which bring the square to life with music, dance, and rituals. A visit to Bhaktapur Durbar Square offers a blend of history, art, and culture, making it a must-see destination for travelers in Nepal."
@@ -114,7 +114,7 @@
     "type": "Adventure",
     "rating": 4.9,
     "popularity": "Medium",
-    "image": ["/Images/raralake.jpg"],
+    "image": ["/Images/raralake.jpg", "/Images/raralake-2.jpg", "/Images/raralake-3.jpg"],
     "detailPage": "/destinations/10",
     "activities": ["Hiking", "Climbing", "Cultural experiences"],
     "description": "Rara Lake, the largest lake in Nepal, is a hidden gem located in the remote Karnali Region. Surrounded by the Rara National Park, the lake is renowned for its crystal-clear blue waters and stunning alpine scenery. Visitors can trek through pristine forests, filled with pine, spruce, and juniper trees, and encounter a diverse range of wildlife, including musk deer, Himalayan black bears, and various bird species. The tranquil setting of Rara Lake makes it an ideal destination for those seeking peace and solitude. The nearby village of Talcha provides a glimpse into the local culture and way of life. A visit to Rara Lake is a journey into unspoiled natural beauty, offering breathtaking vistas and a chance to reconnect with nature in one of Nepal’s most serene locations."

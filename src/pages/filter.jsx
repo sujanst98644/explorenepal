@@ -1,6 +1,6 @@
 import React, {useState} from "react";
 import data from "../data/data.json";
-import DestinationCard from "./DestinationCard";
+import DestinationCard from "../components/DestinationCard";
 
 const Filter = () => {
   const [regionFilter, setRegionFilter] = useState("");

@@ -1,6 +1,6 @@
 import React from "react";
-import Recommendation from "./recomendation";
-import Search from "./Search";
+import Recommendation from "../components/recomendation";
+import Search from "../components/Search";
 
 const Home = () => {
   return (
